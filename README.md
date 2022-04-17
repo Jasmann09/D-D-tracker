@@ -2,6 +2,8 @@
 ## Inspiration
 Being a fitness enthusiast myself, the nutritional aspect of lifestyle fascinates me. But the lack of proper information and not finding them at one place has inspired me to create a website which would help you identify your diseases or deficiency according to the symptoms you are experiencing along with the list of cure and doctors whom you can consult. 
 ## Demo
+<img src="ezgif.com-gif-maker.gif" width="800">
+
 ## Components
 1. Home page
 2. Auto Tracker
